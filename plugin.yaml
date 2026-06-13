@@ -1,0 +1,13 @@
+name: headed-browser
+version: "1.0.0"
+description: "Headed desktop browser automation via pyautogui + xdotool. Shows live mouse movement and clicks on the user's screen."
+author: mrmoe28
+dependencies: []
+enabled: true
+tools:
+  - desktop_screenshot
+  - desktop_click
+  - desktop_type
+  - desktop_scroll
+  - desktop_browser
+  - desktop_mouse_move
